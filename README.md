@@ -1,6 +1,6 @@
 # plotGUI
 GUI for matplotlib.
-used:
+Used:
 + PyQt4
 + pyperclip
 + matplotlib
