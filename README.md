@@ -16,8 +16,10 @@ Saved default functions of matplotlib.plot (just more user friendly) and add:
 // Code is very bad. Sorry.
 
 For edit legend:
-1. RMB on object
-2. Set legendary
-3. Set lable
-4. ...
-5. Profit
+1. RBM on axes
+2. Legend on
+3. RMB on object
+4. Set legendary
+5. Set lable
+6. ...
+7. Profit
