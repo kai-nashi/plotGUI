@@ -11,5 +11,13 @@ Save default functions of matplotlib.plot (just more user friendly) and add:
 + drag&drop for patches (circle, rectangle, arrowPatch, text)
 + wheel zoom
 + context menu for axes and objects
++ saving as file by file dialog
 
 // Code is very bad. Sorry.
+
+For edit legend:
+1. RMB on object
+2. Set legendary
+3. Set lable
+4. ...
+5. Profit
