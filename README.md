@@ -11,7 +11,7 @@ Saved default functions of matplotlib.plot (just more user friendly) and add:
 + drag&drop for patches (circle, rectangle, arrowPatch, text)
 + wheel zoom
 + context menu for axes and objects
-+ saving as file by file dialog
++ saving by file dialog (no any settigns like DPI)
 
 // Code is very bad. Sorry.
 
